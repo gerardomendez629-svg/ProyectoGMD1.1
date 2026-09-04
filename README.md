@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="header">
-<h3>L23300636@villahermosa.tecnm.mx</h3>
+<h3>L21399682@villahermosa.tecnm.mx</h3>
 </div>
 <div class="menuHorizontal">
 <a href="index.html">Inicio</a> |
@@ -22,7 +22,7 @@
 <h3>Derechos reservados @webpage.com</h3>
 </div>
 <div class="titulo">
-<h1>Sitio oficial de Ana Josefina Camacho Torres</h1>
+<h1>Sitio oficial de Gerardo Mendez de Dios</h1>
 </div>
 </body>
 </html>
